@@ -1,4 +1,4 @@
-# Multimodal Deep Learning and Explainable Artificial Intelligence for Measles Detection
+# A Multimodal Optimised Measles Detection Approach Using Deep Learning
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow 2.12+](https://img.shields.io/badge/TensorFlow-2.12+-orange.svg)](https://www.tensorflow.org/)
