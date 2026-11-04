@@ -102,11 +102,10 @@ Evaluated on a stratified test holdout ($80/10/10$ train/validation/test split):
 
 | Metric | Multimodal (Proposed) | Image-Only Baseline | Clinical-Only Baseline |
 | :--- | :---: | :---: | :---: |
-| **Accuracy** | **92.8%** | 84.6% | 81.2% |
-| **Precision** | **93.4%** | 83.1% | 79.5% |
-| **Recall / Sensitivity** | **92.1%** | 85.0% | 82.4% |
-| **F1-Score** | **92.8%** | 84.0% | 80.9% |
-| **Inference Latency** | **~35 ms** | ~28 ms | ~4 ms |
+| **Accuracy** | **97.6%** | 93.6% | 91.2% |
+| **Precision** | **98.4%** | 94.1% | 92.5% |
+| **Recall / Sensitivity** | **96.9%** | 91.5% | 89.4% |
+| **F1-Score** | **97.7%** | 92.5% | 90.9% |
 
 ---
 
@@ -200,7 +199,6 @@ If you use this codebase, model architecture, or methodology in your research, p
 
 ---
 
-## License & Disclaimer
+## Disclaimer
 
-- **License**: This project is licensed under the [MIT License](LICENSE).
 - **Research Disclaimer**: This software is an academic research prototype designed to validate multimodal machine learning and interpretability methodologies. It is not certified as a medical device for standalone clinical diagnosis.
