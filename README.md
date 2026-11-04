@@ -7,13 +7,13 @@
 [![Vite 8](https://img.shields.io/badge/Vite-8-purple.svg)](https://vitejs.dev/)
 
 Official replication repository for the research paper:  
-**"Measles Detection Using Multimodal Deep Learning and Explainable Artificial Intelligence (XAI)"**.
+**"A Multimodal Optimised Measles Detection Approach Using Deep Learning"**.
 
 ---
 
 ## Abstract
 
-Measles (*Rubeola*) is an acute, highly contagious viral disease with severe potential complications. Automated computer-aided diagnosis based solely on photographic skin lesion examination often struggles with visual ambiguity against other pediatric febrile exanthems (e.g., rubella, roseola, scarlet fever). 
+Measles is an acute, highly contagious viral disease with severe potential complications. Automated computer-aided diagnosis based solely on photographic skin lesion examination often struggles with visual ambiguity against other pediatric febrile exanthems (e.g., rubella, roseola, scarlet fever). 
 
 This research proposes an end-to-end multimodal deep learning framework that concurrently ingests:
 1. **Dermatological Skin Imagery** processed via a lightweight, pre-trained **MobileNetV2** convolutional backbone (depthwise separable convolutions).
