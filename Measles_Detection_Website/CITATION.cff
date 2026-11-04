@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or methodology in your research, please cite it as below."
+title: "Multimodal Deep Learning and Explainable Artificial Intelligence for Measles Detection"
+version: 1.0.0
+date-released: 2026-10-01
+url: "https://github.com/your-username/measles-multimodal-detection"
+keywords:
+  - measles detection
+  - multimodal deep learning
+  - explainable artificial intelligence
+  - exact shap
+  - mobilenetv2
+  - computer vision
