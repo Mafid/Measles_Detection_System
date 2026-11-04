@@ -97,7 +97,7 @@ Measles_Detection_Website/
 
 ## Experimental Performance Summary
 
-Evaluated on a stratified test holdout ($80/10/10$ train/validation/test split):
+Evaluated on a stratified test holdout ($75/15/15$ train/validation/test split):
 
 | Metric | Multimodal (Proposed) | Image-Only Baseline | Clinical-Only Baseline |
 | :--- | :---: | :---: | :---: |
